@@ -1,7 +1,7 @@
 {
   "name": "fh-typescript-11",
   "version": "1.0.0",
-  "description": "TypeScript support for libraries that not use it",
+  "description": "How to use TypeScript when libraries don't support it",
   "license": "ISC",
   "author": "Rene Rivas",
   "type": "commonjs",
