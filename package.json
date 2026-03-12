@@ -1,0 +1,14 @@
+{
+  "name": "fh-typescript-11",
+  "version": "1.0.0",
+  "description": "TypeScript support for libraries that not use it",
+  "license": "ISC",
+  "author": "Rene Rivas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "",
+    "start": ""
+  }
+}
